@@ -1,0 +1,48 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Silla",
+        "tipo": "Comedor",
+        "desc": "descripcion",
+        "precio": 300,
+        
+        "img": "public/silla.png",
+        "cantidad":1
+    },
+
+    {
+        "id": 2,
+        "nombre": "Ropero",
+        "tipo": "Dormitorio",
+        "desc": "descripcion",
+        "precio": 400,
+        
+        "img": "public/ropero.png",
+        "cantidad":1
+    },
+
+    {
+        "id": 3,
+        "nombre": "Mesa",
+        "tipo": "comedor",
+        "desc": "descripcion",
+        "precio": 350,
+        
+        "img": "public/mesa.jpg",
+        "cantidad":1
+    },
+
+    {
+        "id": 4,
+        "nombre": "Sillon ",
+        "tipo": "living",
+        "desc": "descripcion",
+        "precio": 300,
+        
+        "img": "public/sillon.png",
+        "cantidad":1
+    }
+    
+
+]
